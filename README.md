@@ -135,3 +135,4 @@ npm run build
 ```
 
 在 `dist` 文件夹下生成结果。
+# vue-tetris
